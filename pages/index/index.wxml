@@ -1,0 +1,10 @@
+<!--index.wxml-->
+<progress percent="100" stroke-width="10" activeColor="green"/>
+<view class="note">
+您已完成问卷！
+</view>
+
+<button type="primary" size="{{primarySize}}" > 
+返回首页 </button>
+<button type="primary" size="{{primarySize}}" bindtap="jumpTologsPage">继续填写问卷 </button>
+

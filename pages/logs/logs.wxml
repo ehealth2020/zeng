@@ -1,0 +1,15 @@
+<!--logs.wxml-->
+<button type="primary" >健康状况
+</button>
+
+<button type="primary">生活习惯
+</button>
+
+<button type="primary">生理指标
+</button>
+
+<button type="primary">情绪认知
+</button>
+
+<button type="primary">中医体质
+</button>
